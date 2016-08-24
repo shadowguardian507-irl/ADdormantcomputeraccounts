@@ -1,6 +1,8 @@
 ADdormantcomputeraccounts
 =================
 
+[![Join the chat at https://gitter.im/Etheria-Software/ADdormantcomputeraccounts](https://badges.gitter.im/Etheria-Software/ADdormantcomputeraccounts.svg)](https://gitter.im/Etheria-Software/ADdormantcomputeraccounts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Dependencies
 
    * [docker](https://www.docker.com/)
